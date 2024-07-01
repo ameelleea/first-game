@@ -9,6 +9,6 @@
   "devDependencies": {}
 
   "scripts": {
-  "build": "your build commands here"
+  "build": "parcel build index.html"
 }
 }
