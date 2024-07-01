@@ -1,1 +1,14 @@
+{
+  "name": "potable-sniveling-hawk",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "scripts": {},
+  "devDependencies": {}
 
+  "scripts": {
+  "build": "your build commands here"
+}
+}
